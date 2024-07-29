@@ -1,0 +1,48 @@
+This Power BI dashboard visualizes various key performance indicators and metrics related to sales orders, tax, freight, and order quantities. Here’s a detailed description of each section and visualization:
+
+Overall Layout
+- The dashboard has a structured layout with key metrics displayed at the top, followed by interactive visualizations in the middle and bottom sections.
+- The color scheme is consistent, with bold headers and clear data presentation.
+
+Top Metrics
+1. Order Date: Displays the count of orders by their order dates, shown as 57K.
+2. Due Date: Displays the count of orders by their due dates, shown as 54K.
+3. Ship Date: Displays the count of orders by their ship dates, shown as 55K.
+4. Total Line: Displays the total line amount, shown as 44M.
+5. Total Tax: Displays the total tax amount, shown as 4M.
+6. Total Freight: Displays the total freight amount, shown as 1M.
+7. Total Due Amount: Displays the total due amount, shown as 49M.
+
+Visualizations
+1. Q & A:
+   - A card showing the result of a Q&A search for "total of tax," displaying a total tax amount of 4.07M.
+
+2. Order in Each Year:
+   - A pie chart displaying the distribution of orders by year.
+   - Each segment represents a different year (2011, 2012, 2013, 2014) with the number of orders and their percentage of the total.
+
+3. Max of OrderQty and Count of OrderQty by CategoryName:
+   - A treemap showing the maximum and count of order quantities by category name.
+   - Categories include Clothing, Bikes, Accessories, and Components, with varying sizes representing the order quantities.
+
+4. Total Of Due Amount by Year:
+   - A scatter plot showing the total due amount by year.
+   - X-axis: Year (2013 is marked).
+   - Y-axis: Total Due Amount.
+
+Functionality and Interactivity
+- Filters: Allows filtering data dynamically by different metrics like product, date, category, etc.
+- Tooltips: Provides additional information when hovering over different data points in the charts.
+- Drill Through: Options to drill through the data for more detailed insights.
+
+Key Insights
+- The dashboard provides a comprehensive overview of sales performance and key financial metrics.
+- It highlights the distribution of orders by year, order quantities by category, and total amounts for tax, freight, and due.
+- The Q&A feature enables users to get quick answers to specific queries.
+
+Usage
+- This dashboard is useful for sales managers, analysts, and business leaders to monitor sales performance and financial metrics.
+- It facilitates data-driven decision-making by providing clear and interactive visualizations of critical data points.
+
+Summary
+Overall, this Power BI dashboard offers a detailed view of sales performance, combining key metrics with interactive charts and graphs. The layout is user-friendly, enabling efficient data exploration and analysis.
