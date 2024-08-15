@@ -1,0 +1,27 @@
+=========================================================== Dim ==================================================================
+
+1- Education , Education Key                   
+
+2- Education Field - Education Field  Key 
+
+3- Relationship Satisfaction - Job Satisfaction - Job Involvement - Environment Satisfaction - RJJEKey
+
+4- Department - Department Key
+
+5- Business Travel - Business Travel Key
+
+6- Job Rule - Job Rule Key	
+
+7- Employee Number Key - Martial Status - Age - Gender - Num Companies - Attrition 
+
+=========================================================== Facts ================================================================
+
+Daily Rate - Distance From Home - Hourly Rate - Job Level - Monthly Income - Over Time - Monthly Rate - Present Salary Hike - Performance Rating - Stock Option Level - Total Working Years - Training Times Last Year - Work Life Balance - Years at Company - 
+Years In Current Role - Years Since Last Promotion - Years With Current Manager 
+
+Education Key - Education Field Key - Relationship Satisfaction Key - Job Satisfaction Key - Job Involvement Key - Environment Satisfaction Key - Department Key - Business Travel Key - Job Rule Key - Employee Number Key
+
+========================================================== Removed Column ========================================================
+
+Employee Count - Standard Hours - Over 18
+
