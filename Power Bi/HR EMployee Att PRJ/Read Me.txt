@@ -1,0 +1,35 @@
+Project Description: Employee Attrition Analysis Dashboard for IBM HR Dataset
+Objective:
+Create an interactive Power BI dashboard to analyze and visualize employee attrition data from the IBM HR dataset. The goal is to identify key factors contributing to employee turnover and provide actionable insights for improving retention strategies.
+
+Dataset:
+The IBM HR-Employee-Attrition dataset includes employee-related information such as Employee ID, Age, Department, Job Role, Distance from Home, Salary, Performance Ratings, and Attrition status (i.e., whether the employee left the company or stayed).
+
+Key Features of the Dashboard:
+
+Attrition Overview:
+
+Overall Attrition Rate: Displays the percentage of employees who have left the company compared to those who have stayed.
+Trend Analysis: Line charts showing attrition trends over time (monthly or quarterly).
+Demographic Analysis:
+
+Attrition by Age and Gender: Bar charts and pie charts to analyze attrition rates across different age groups and gender.
+Departmental Attrition: Visualization of attrition rates by department and job role.
+Performance and Satisfaction:
+
+Performance Ratings Impact: Analysis of how performance ratings correlate with attrition.
+Job Satisfaction Analysis: Scatter plots showing the relationship between job satisfaction scores and attrition.
+Compensation Analysis:
+
+Salary Distribution: Box plots or histograms depicting the distribution of salaries for employees who left versus those who stayed.
+Salary vs. Attrition: Correlation analysis to see if salary changes affect attrition rates.
+Distance and Work-Life Balance:
+
+Distance from Home: Analysis of how the distance employees commute affects their likelihood of leaving the company.
+Work-Life Balance Metrics: Visualization of how work-life balance influences attrition.
+Interactivity:
+
+Filters: Enable users to filter data by time periods, departments, job roles, and demographic factors to gain insights tailored to specific segments.
+Drill-Downs: Allow users to explore detailed breakdowns of attrition data by interacting with various visual elements.
+Outcome:
+The Power BI dashboard provides a clear, data-driven understanding of the factors affecting employee attrition. By leveraging interactive visualizations and filters, HR professionals and managers can identify trends and patterns, allowing them to develop targeted strategies to improve employee retention and enhance organizational performance
